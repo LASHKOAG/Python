@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message DC="1" DS="1055-055130-0000">
+<station ID="55130" LON="29.6567" LAT="30.0789" NAME="Omsk">
+<metadata>
+<controller>
+<config SET="AMK-02" VER="01"/>
+<software SENSTYPE="Sys" VER="v01.05"/>
+<software SENSTYPE="User" VER="v02.00.00"/>
+</controller>
+</metadata>
+  <report ID="723" TIME="2019-06-08T10:07:00Z">
+<parameter VAR=11 SENSTYPE="RWIS" QC="NULL">20.92</parameter>
+<parameter VAR="TELEM" SENSTYPE="RWIS" SENSID="1" QC="NULL">22.70</parameter>
+<parameter VAR="TMOP" SENSTYPE="RWIS">8621.6</parameter>
+<parameter VAR="LB" PROC="INS" SENSTYPE="WS200" QC="NULL">23.7454</parameter>
+<parameter VAR="TELEM" SENSTYPE="WS200" QC="NULL">52.5805</parameter>
+<parameter VAR="LB" PROC="INS" SENSTYPE="WS300" QC="NULL">/</parameter>
+    </report>
+
+</station>
+</message>
