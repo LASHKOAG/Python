@@ -9,3 +9,15 @@ class Inanimate(Things):
 class Animate(Things):
     pass
 
+class Sidewalks(Inanimate):
+    pass
+
+class Animals(Animate):
+    pass
+
+class Mammals(Animals):
+    pass
+
+class Giraffes(Mammals):
+    pass
+
